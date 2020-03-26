@@ -18,6 +18,10 @@ Teste de Programação Orientada a Objetos e Web Scraper
 
 - Cada animal tem seu som e suas ações possíveis, por exemplo a galinha cacareja e também bota ovo, mas não voa.
 
+- Por bom senso, adotamos as condições que comvém com a realidade, por exemplo, vacas não voam! Mas podemos extrapolar e mudar tais condições, por isso todos algumas ações são abilitadas, porém algumas não.
+
+- Somente mamíferos amamentam e somente aves botam ovos. Existem mamíferos que, como as aves, voam, por isso foi abilitada essa ação.
+
 ---------------------------------------------------------------------------------------------------------------------------
 ### Encapsulamento:
 
