@@ -9,7 +9,9 @@ Teste de Programação Orientada a Objetos e Web Scraper
 
 - Os arquivos GalinhaApp.java, PatoApp.java são executáveis pela máquina java e testam os comportamentos pedidos para as aves.
 
-- Cada arquivo executável já apresenta uma interface para o teste das ações de cada animal pelo console. 
+- Cada arquivo executável já apresenta o uso da função de interface de cada animal para o teste e visualização pelo console. 
+
+- Dois objetos foram construídos para cada classe, exemplo para a classe Vaca foram criados os objetos: 'vaca1' e 'vaca2'.
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### Abstração:
