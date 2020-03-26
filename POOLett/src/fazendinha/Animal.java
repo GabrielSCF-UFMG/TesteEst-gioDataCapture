@@ -14,13 +14,11 @@ public class Animal { //Classe pai, super-classe
     //Todos os animais têm esses atributos
     private int idade;
     private double tamanho;
-    //private String som;
     private boolean voa; //Alguns animais voam
     private int altitude;
     
     public Animal(int idade, double tamanho, boolean voa,int altitude){
         this.idade = idade;
-        //this.som = som;
         this.tamanho = tamanho;
         this.voa = voa;
         this.altitude = altitude;
@@ -36,9 +34,8 @@ public class Animal { //Classe pai, super-classe
     //Métodos setters
     public void setIdade(int id){this.idade = id;}
     public void setTamanho(double tam){this.tamanho = tam;}
-    public void setVoar(boolean voa){this.voa = voa;}
+    public void setVoa(boolean voa){this.voa = voa;}
     public void setAltitude(int altitude){this.altitude = altitude;}
-    public void setVoa(boolean voa) {this.voa = voa;}
     
     public void emitirSom(){
         System.out.println("O animal está emitindo seu som.");
